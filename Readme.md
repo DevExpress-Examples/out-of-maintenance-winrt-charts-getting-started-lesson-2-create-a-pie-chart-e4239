@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/PieChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/PieChart/MainPage.xaml))
+<!-- default file list end -->
 # WinRT Charts Getting Started - Lesson 2 - Create a Pie Chart
 
 
